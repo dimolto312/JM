@@ -1,0 +1,20 @@
+{
+  
+  "Information": {
+  "Version Name": "A",
+  "Version Code": "0.0.1"
+  },
+  
+  "Producer": {
+    "Name": "PLM312"
+  },
+  
+    "Count": "4",
+  
+  "List": {
+    "JM1": "1https://aiforum.flarum.cloud/",
+    "JM2": "2dongleje",
+    "JM3": "JUngbo3",
+    "JM4": "hum4sill"
+  }
+}
