@@ -4,11 +4,13 @@
     "Name": "PLM312"
   },
   
-    "Count": "1",
+    "Count": "2",
   
   "Album": {
     "JM1": "Walking In My Shoes",
-    "Info1": "2013/08/03"
+    "Info1": "2013/08/03",
+    "JM2": "Dreaming Of Me",
+    "Info2": "2013/09/01"
   }
   
 }
